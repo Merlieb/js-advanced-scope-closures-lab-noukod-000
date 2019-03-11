@@ -18,6 +18,4 @@ function produceTipCalculator(tipPercentage) {
   }
 }
 
-// let withinThirtyBlocks = produceDrivingRange(30)
-//
-// withinThirtyBlocks('1st', '28th')
+
