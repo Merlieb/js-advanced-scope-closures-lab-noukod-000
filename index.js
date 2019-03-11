@@ -17,5 +17,3 @@ function produceTipCalculator(tipPercentage) {
     return rate * tipPercentage
   }
 }
-
-
